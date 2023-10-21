@@ -45,8 +45,8 @@ This project provides an interactive and engaging way for users to determine the
 
 ## Autora
 
-GitHub: @Estefanilira ( https://github.com/Estefanilira )
-Linkedin: @estefanilira-dev (https://www.linkedin.com/in/estefanilira-dev/)
+* GitHub: @Estefanilira ( https://github.com/Estefanilira )
+* Linkedin: @estefanilira-dev (https://www.linkedin.com/in/estefanilira-dev/)
 
 ##
 Obrigada por me visitar e boa codificação!
